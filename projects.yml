@@ -1,0 +1,113 @@
+aiptv:
+  name: AIPTV
+  description: alternative IPTV for Plex
+  image: /img/tv.png
+  download: https://github.com/manfer/AIPTV.bundle/releases
+  github: https://github.com/manfer/AIPTV.bundle
+  website: https://manfer.github.io/AIPTV.bundle/
+  bgcolor: 16A086
+  specs:
+    - icon: pencil
+      header: XSPF
+      text: powered by free and open<br>XML Shareable Playlist Format
+    - icon: flash
+      header: fast
+      text: can handle large playlists<br>in no time
+    - icon: search
+      header: useful
+      text: groupable, sortable<br>and searchable
+
+ivoox:
+  name: ivoox
+  description: podcasts for Plex
+  image: /img/podcast.png
+  download: https://github.com/manfer/ivoox.bundle/releases
+  github: https://github.com/manfer/ivoox.bundle
+  website: https://manfer.github.io/ivoox.bundle/
+  bgcolor: F7941E
+  specs:
+    - icon: bullhorn
+      header: podcasts
+      text: listen to podcasts<br>and radio stations
+    - icon: star
+      header: searchable
+      text: easily search for your<br>favourite podcast
+    - icon: headphones
+      header: unlimited
+      text: large number of podcasts<br>that you can listen<br>with no limits
+
+losmejorescortos:
+  name: Los Mejores Cortos
+  description: cortos for Plex
+  image: /img/countdown.png
+  download: https://github.com/manfer/losmejorescortos.bundle/releases
+  github: https://github.com/manfer/losmejorescortos.bundle
+  website: https://manfer.github.io/losmejorescortos.bundle/
+  bgcolor: 91B93F
+  specs:
+    - icon: hd-video
+      header: excelente
+      text: cortometrajes a tu disposición<br>con la mayor calidad
+    - icon: tags
+      header: sencillo
+      text: disfruta de tus<br>cortometrajes favoritos<br>con la mayor comodidad
+    - icon: th
+      header: extenso
+      text: amplia collección de<br>cortometrajes
+
+shortoftheweek:
+  name: Short of the Week
+  description: shorts for Plex
+  image: /img/cinema.png
+  download: https://github.com/manfer/Short-of-the-Week.bundle/releases
+  github: https://github.com/manfer/Short-of-the-Week.bundle
+  website: https://manfer.github.io/Short-of-the-Week.bundle/
+  bgcolor: BDB8AD
+  specs:
+    - icon: hd-video
+      header: tiptop
+      text: best short movies for you<br>at the highest quality
+    - icon: tags
+      header: accessible
+      text: find your favourite<br>short movie easily
+    - icon: th
+      header: massive
+      text: large collection of<br>short movies
+
+lfp:
+  name: LFP
+  description: soccer for Plex
+  image: /img/ball.png
+  download: https://github.com/manfer/LFP.bundle/releases
+  github: https://github.com/manfer/LFP.bundle
+  website: https://manfer.github.io/LFP.bundle/
+  bgcolor: 66AB34
+  specs:
+    - icon: facetime-video
+      header: videos
+      text: highlights<br>and other videos<br>of spanish soccer league
+    - icon: picture
+      header: pictures
+      text: best shots<br>of spanish soccer league
+    - icon: user
+      header: your team
+      text: follow your favourite team<br>Real Madrid, Barça
+
+xhamster:
+  name: xHamster
+  description: porn for Plex
+  image: /img/condom.png
+  download: https://github.com/manfer/xHamster.bundle/releases
+  github: https://github.com/manfer/xHamster.bundle
+  website: https://manfer.github.io/xHamster.bundle/
+  bgcolor: CE3C3F
+  specs:
+    - icon: facetime-video
+      header: videos
+      text: large collection of<br>porn videos
+    - icon: picture
+      header: pictures
+      text: all kinds of<br>porn shared pictures
+    - icon: user
+      header: for anyone
+      text: heterosexual, gay and<br>transsexual content
