@@ -2,7 +2,7 @@ aiptv:
   name: AIPTV
   description: alternative IPTV for Plex
   image: /img/tv.png
-  download: https://github.com/manfer/AIPTV.bundle/releases
+  download: /archive/v0.3.zip
   github: https://github.com/manfer/AIPTV.bundle
   website: https://manfer.github.io/AIPTV.bundle/
   bgcolor: 16A086
@@ -21,7 +21,7 @@ ivoox:
   name: ivoox
   description: podcasts for Plex
   image: /img/podcast.png
-  download: https://github.com/manfer/ivoox.bundle/releases
+  download: /archive/v0.1.zip
   github: https://github.com/manfer/ivoox.bundle
   website: https://manfer.github.io/ivoox.bundle/
   bgcolor: F7941E
@@ -40,7 +40,7 @@ losmejorescortos:
   name: Los Mejores Cortos
   description: cortos for Plex
   image: /img/countdown.png
-  download: https://github.com/manfer/losmejorescortos.bundle/releases
+  download: /archive/v1.0.zip
   github: https://github.com/manfer/losmejorescortos.bundle
   website: https://manfer.github.io/losmejorescortos.bundle/
   bgcolor: 91B93F
@@ -59,7 +59,7 @@ shortoftheweek:
   name: Short of the Week
   description: shorts for Plex
   image: /img/cinema.png
-  download: https://github.com/manfer/Short-of-the-Week.bundle/releases
+  download: /archive/v1.0.1.zip
   github: https://github.com/manfer/Short-of-the-Week.bundle
   website: https://manfer.github.io/Short-of-the-Week.bundle/
   bgcolor: BDB8AD
@@ -78,7 +78,7 @@ lfp:
   name: LFP
   description: soccer for Plex
   image: /img/ball.png
-  download: https://github.com/manfer/LFP.bundle/releases
+  download: /archive/v1.0.zip
   github: https://github.com/manfer/LFP.bundle
   website: https://manfer.github.io/LFP.bundle/
   bgcolor: 66AB34
@@ -97,7 +97,7 @@ xhamster:
   name: xHamster
   description: porn for Plex
   image: /img/condom.png
-  download: https://github.com/manfer/xHamster.bundle/releases
+  download: /archive/v1.0.zip
   github: https://github.com/manfer/xHamster.bundle
   website: https://manfer.github.io/xHamster.bundle/
   bgcolor: CE3C3F
