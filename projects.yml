@@ -59,7 +59,7 @@ shortoftheweek:
   name: Short of the Week
   description: shorts for Plex
   image: /img/cinema.png
-  download: /archive/v1.0.1.zip
+  download: /archive/v1.1.zip
   github: https://github.com/manfer/Short-of-the-Week.bundle
   website: https://manfer.github.io/Short-of-the-Week.bundle/
   bgcolor: BDB8AD
